@@ -5,13 +5,6 @@
 
 `mall`项目致力于打造一个完整的电商系统，采用现阶段流行技术实现。
 
-## 特别赞助商
-
-<p align="left">
-<a href="https://coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
-  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.png" width=""/>
- </a>
-</p>
 
 ## 项目介绍
 
